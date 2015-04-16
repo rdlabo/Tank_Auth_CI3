@@ -110,7 +110,7 @@ $config['forgot_password_expire'] = 60*15;
 |--------------------------------------------------------------------------
 */
 $config['captcha_path'] = 'captcha/';
-$config['captcha_fonts_path'] = 'captcha/fonts/5.ttf';
+$config['captcha_fonts_path'] = 'captcha/fonts/3.ttf';
 $config['captcha_width'] = 200;
 $config['captcha_height'] = 50;
 $config['captcha_font_size'] = 14;
